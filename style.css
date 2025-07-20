@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(27, 27, 27);
+}
+    h1{
+        color: white;
+    }
+        h2{
+            color: gray;
+        }
+            p{
+                color: bisque;
+            }
+                li{
+                    color: bisque;
+                }
